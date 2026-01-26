@@ -13,7 +13,7 @@
     "customize-cra": "^0.8.0",
     "fortmatic": "^1.0.0",
     "ganache-core": "^2.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "mobx": "^5.15.0",
     "mobx-react": "^6.1.4",
     "moment": "^2.24.0",
